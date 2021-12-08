@@ -1,0 +1,11 @@
+API:https://www.cypress.io/blog/2017/11/07/add-gui-to-your-e2e-api-tests/
+
+1. npm init -y 
+2. npm install cypress --save-dev
+3. REPORTER: 
+3.1 npm install --save-dev mochawesome mochawesome-merge mochawesome-report-generator
+    npm install --save-dev mochawesome mochawesome-merge mochawesome-report-generator
+3.2. cypress.json
+3.3 script: 
+
+4. npm i --save-dev cypress-localstorage-commands
